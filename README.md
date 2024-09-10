@@ -1,8 +1,7 @@
 
 
-# 我的图床主页
+# My image hosting homepage
 
-这是我在GitHub Pages上的图床。以下是我托管的一些图片：
+This is my image hosting on GitHub Pages. Here are some of the images I host:
 
-## 图片列表
-
+## Image list
